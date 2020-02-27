@@ -1,0 +1,18 @@
+- layout: left
+  name: Backdraft Engine
+#  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: https://github.com/ryanbbernstein/BACKDRAFT
+#  quote: >
+#    Custom Game Engine written in <mark>C++</mark> build on top of <mark>OpenGL</mark>
+  description: | # this will include new lines to allow paragraphs
+    ## Custom Game Engine written in <mark>C++</mark> 
+    **In Development**
+
+- layout: left
+  name: Drunk Simulator
+#  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: https://github.com/ryanbbernstein/COMP565_Project
+#  quote: >
+#    Custom Game Engine written in C++ build on top of OpenGL
+  description: | # this will include new lines to allow paragraphs
+    ## Small game made in <mark>Unity</mark> for a Computer Graphics class. Wrote custom shaders to create the various drunk visual effects.

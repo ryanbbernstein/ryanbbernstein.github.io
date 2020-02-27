@@ -1,0 +1,52 @@
+# Baby Rage
+- layout: left
+  company: Baby Rage Games
+#  link: Link to company (optional)
+  job_title: Lead Backend Engineer
+  dates: November 2018 - April 2019
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    #### Project: Unannounced VR Project
+    * Designed REST API and Client-side SDK
+    * Developed Back-end Platform and Networking Solution
+    * Developed various game mechanics
+    * Setup and Managed source and version control solution Perforce
+
+# Skydance
+- layout: left
+  company: Skydance Interactive
+#  link: Link to company (optional)
+  job_title: Junior Software Engineer
+  dates: January 2018 - November 2018
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    #### Project: The Walking Dead: Saints & Sinners
+    * Developed Walker AI behavior
+    * Optimized performance to meet and exceed 100 FPS in VR
+    * Developed VR interactable book capable of rendering dynamic text on pages that could be updated in real-time
+    
+    #### Project: Archangel: Hellfire
+    * Lead the development of the Client-side SDK and Unreal Engine Plugin to integrate into SDI's proprietary Multiplayer Back-end for use in all future projects
+    * Plugin Manages data creation and retrieval for Player Accounts, Matchmaking Tickets, Lobby Information, and Gameplay Sessions
+    * Integrated Network Plugin into project
+    * Developed Game Mode logic for connecting to the multiplayer backend, connecting and disconnecting players, and collecting game statistics and reporting to backend
+    * Developed Front-end UI system for VR interaction
+    * Prototyped several Gameplay features
+
+
+# Skydance Intern
+- layout: left
+  company: Skydance Interactive
+#  link: Link to company (optional)
+  job_title: Software Engineer Intern
+  dates: May 2017 - January 2018
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    #### Project: PWND
+    * Bug fixing in UI, Gameplay, Network code, and Back-end
+    * Developed Back-end and Front-end functionality
+    * Lead the project of creating a Linux version of the game server
+    * Saved time and money in spinning up and managing game servers
