@@ -1,4 +1,6 @@
 - layout: left
+  img: Backdraft.png
+  img-caption: Backdraft Editor View
   name: Backdraft Engine
 #  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: https://github.com/ryanbbernstein/BACKDRAFT

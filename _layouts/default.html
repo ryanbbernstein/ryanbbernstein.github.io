@@ -31,7 +31,12 @@
       {%- if site.more_content -%}
         {%- include more.html -%}
       {%- endif -%}
-
+	
+	  <div id="imgModal" class="modal">
+		<span class="closeModal">&times;</span>
+		<img class="modal-content" id="img01">
+		<span id="caption"></span>
+	  </div>
     </div>
   </main>
 

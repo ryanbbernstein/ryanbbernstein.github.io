@@ -1,4 +1,9 @@
 <div class="row clearfix layout layout-left">
+  {%- if include.item.img -%}
+  <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
+	<img class="image" id="{{include.item.img}}" src="{{ include.item.img }}" alt="{{include.item.img-caption}}" onclick="OpenModal(this)">
+  </div>
+  {%- endif -%}
   <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
     {%- if include.item.name -%}<h4>{{ include.item.name }}</h4>{%- endif -%}
     {%- if include.item.company -%}<h4>{{ include.item.company }}</h4>{%- endif -%}
