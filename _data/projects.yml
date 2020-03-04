@@ -3,7 +3,7 @@
   img-caption: Backdraft Editor View
   name: Backdraft Engine
 #  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: https://github.com/ryanbbernstein/BACKDRAFT
+  github: ryanbbernstein/BACKDRAFT
 #  quote: >
 #    Custom Game Engine written in <mark>C++</mark> build on top of <mark>OpenGL</mark>
   description: | # this will include new lines to allow paragraphs
@@ -13,7 +13,7 @@
 - layout: left
   name: Drunk Simulator
 #  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: https://github.com/ryanbbernstein/COMP565_Project
+  github: ryanbbernstein/COMP565_Project
 #  quote: >
 #    Custom Game Engine written in C++ build on top of OpenGL
   description: | # this will include new lines to allow paragraphs
